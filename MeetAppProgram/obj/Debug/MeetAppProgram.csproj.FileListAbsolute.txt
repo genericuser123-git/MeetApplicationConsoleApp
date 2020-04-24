@@ -1,0 +1,11 @@
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\bin\Debug\MeetAppProgram.exe.config
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\bin\Debug\MeetAppProgram.exe
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\bin\Debug\MeetAppProgram.pdb
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\bin\Debug\RestSharp.dll
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\bin\Debug\RestSharp.xml
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\obj\Debug\MeetAppProgram.csprojAssemblyReference.cache
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\obj\Debug\MeetAppProgram.csproj.CopyComplete
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\obj\Debug\MeetAppProgram.exe
+C:\Users\daroony\source\repos\MeetAppProgram\MeetAppProgram\obj\Debug\MeetAppProgram.pdb
